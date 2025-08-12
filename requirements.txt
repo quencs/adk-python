@@ -1,0 +1,4 @@
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+pyautogui>=0.9.54
+pyperclip>=1.8.2
